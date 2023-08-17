@@ -25,9 +25,13 @@ public class Marco {
         
         int resta = numero1+numero2;
         
+        int multipliucacion = numero1+numero2;
+        
         System.out.println("la suma es: "+ suma);
         
         System.out.println("la resta es: "+ suma);
+        
+        System.out.println("la multiplicacion  es: "+ suma);
         
     }
 }
