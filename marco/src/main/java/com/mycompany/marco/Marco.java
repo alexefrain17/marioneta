@@ -21,7 +21,9 @@ public class Marco {
         System.out.println("ingrese segundo  numero");
         int numero2 = marko.nextInt();
         
+        int suma = numero1+numero2;
         
+        System.out.println("la suma es: "+ suma);
         
     }
 }
