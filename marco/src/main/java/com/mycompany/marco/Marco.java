@@ -23,7 +23,11 @@ public class Marco {
         
         int suma = numero1+numero2;
         
+        int resta = numero1+numero2;
+        
         System.out.println("la suma es: "+ suma);
+        
+        System.out.println("la resta es: "+ suma);
         
     }
 }
